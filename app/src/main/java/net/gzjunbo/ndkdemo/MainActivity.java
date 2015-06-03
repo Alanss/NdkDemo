@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 Toast.makeText(MainActivity.this, callNDK(),Toast.LENGTH_LONG ).show();
+
             }
         });
     }
