@@ -9,6 +9,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
     private Button callNdk;
+    private Button button;
 
     static {
         System.loadLibrary("Hello");
