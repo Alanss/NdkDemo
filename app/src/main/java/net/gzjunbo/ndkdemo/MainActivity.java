@@ -28,6 +28,8 @@ public class MainActivity extends Activity {
 
             }
         });
+
+        Button button1 = new Button(this);
     }
 
      public native String callNDK();
