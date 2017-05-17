@@ -5,4 +5,7 @@ package net.gzjunbo.ndkdemo;
  */
 
 public class TestClass {
+    public static void testDeveloper(){
+
+    }
 }
